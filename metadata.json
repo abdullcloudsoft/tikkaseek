@@ -1,0 +1,6 @@
+{
+  "name": "Al Sheikh Tikka House",
+  "description": "Authentic Pakistani Tikka & BBQ restaurant located on Saidpur Road / Asghar Mall Road in Rawalpindi, Pakistan. Fresh charcoal grill, seekh kababs, karahi, and family dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
